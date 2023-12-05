@@ -1,7 +1,8 @@
 # Welcome to my great project!
 
 ## This is just a test. Please ignore
-TEST TEST TEST
+# mayday mayday help help help
+programming is difficult
 
 this is just a simple markdown demo
 
